@@ -1,0 +1,36 @@
+/*-------- CSS Reset ------*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*---------- MAIN STYLING ----------*/
+body {
+    background: #fafafa;
+    color: #333;
+    font-family: 'Sree Krushnadevaraya', serif;
+    font-family: 'Prociono', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Kulim Park', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+header, section {    
+    max-width: 600px;
+    margin: auto;}
+
+header {
+    margin: 5em auto;
+}
+
+hr {
+    margin: 2em 0;
+    height: 1px;
+    background-color: #333;
+    color: #333;
+    border: 0 none
+}
